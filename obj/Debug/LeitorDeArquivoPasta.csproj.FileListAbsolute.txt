@@ -1,0 +1,11 @@
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\bin\Debug\LeitorDeArquivoPasta.exe.config
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\bin\Debug\LeitorDeArquivoPasta.exe
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\bin\Debug\LeitorDeArquivoPasta.pdb
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.csprojAssemblyReference.cache
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.Properties.Resources.resources
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.csproj.GenerateResource.cache
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.csproj.CoreCompileInputs.cache
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.exe
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.pdb
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.FFReaderForm.resources
+C:\Users\ighor\source\repos\LeitorDeArquivoPasta\LeitorDeArquivoPasta\obj\Debug\LeitorDeArquivoPasta.FormCopyTo.resources
